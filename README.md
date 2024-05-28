@@ -1,4 +1,4 @@
-Temperature and rainfall visualization using plotly.
+Temperature and rainfall visualization using Dash app.
 # Installation
 ```
 pip install -r requirements.txt
